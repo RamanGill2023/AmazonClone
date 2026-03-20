@@ -1,0 +1,2 @@
+# AmazonClone
+MinorProject1
